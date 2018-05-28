@@ -11,31 +11,33 @@ about: True # set to False or comment line if you want to remove the "How to use
 #style: styles-4
 #style: styles-5
 #style: styles-6
-style: styles-6
+style: styles-4
 sass:
     sass_dir: assets/scss
 
 
 #Profile information
-name: George Suveti
-tagline: Full Stack Developer
+name: Maria Alina Sporea
+tagline: French/English sworn translator & interpreter
 pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+summary: 'Adaptive person, hardworker and very ambitious, excited to learn new things. Good points: quick learning, time management, responsibility, perfectionism.'
 
 #sidebar links
-email: george.suveti@gmail.com
-phone: 0740 561 805
+profile_picture_url: "https://media.licdn.com/dms/image/C4E03AQGkRzqn0TVu6Q/profile-displayphoto-shrink_800_800/0?e=1533168000&v=beta&t=PdvvQoaOUfrE7wUi-8gAOBMprd5zp-AkYsMObF7oxZE"
+email: alina.sporea@gmail.com
+phone: 0745 045 059
 #website: blog.webjeda.com #do not add http://
-linkedin: gsuveti
-github: gsuveti
-twitter: '@gsuveti'
+linkedin: alina-sporea
+github: false
+twitter: false
 #Update all the sections by editing the files inside _data folder.
 
 # uncomment the next line, if you want the education section displayed in main instead of the sidebar
-#education_in_main: True
+education_in_main: true
+experience_in_main: true
+projects_in_main: false
+publications_in_main: false
+footer_in_main: false
 
 # Tracker
 analytics: UA-83979019-1

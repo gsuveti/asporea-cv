@@ -1,27 +1,24 @@
 - skill:
-  name: Java
+  name: English
   level: 100%
 - skill:
-  name: Spring
+  name: Teaching
+  level: 100%
+- skill:
+  name: French
+  level: 80%
+- skill:
+  name: German
+  level: 80%
+- skill:
+  name: Legal translations
   level: 90%
 - skill:
-  name: Software design
+  name: Economic translations
   level: 90%
 - skill:
-  name: Javascript
+  name: Technical translations
   level: 100%
 - skill:
-  name: HTML5 & CSS
-  level: 100%
-- skill:
-  name: Angular
-  level: 100%
-- skill:
-  name: React
-  level: 98%
-- skill:
-  name: Design thinking
-  level: 98%
-- skill:
-  name: Sketch, Illustrator & Photoshop
-  level: 60%
+  name: Microsoft Office
+  level: 80%

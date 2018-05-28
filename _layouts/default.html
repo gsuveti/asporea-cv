@@ -2,24 +2,29 @@
 layout: compress
 ---
 <!DOCTYPE html>
-<!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->  
-<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->  
-<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->  
+<!--[if IE 8]>
+<html lang="en" class="ie8"> <![endif]-->
+<!--[if IE 9]>
+<html lang="en" class="ie9"> <![endif]-->
+<!--[if !IE]><!-->
+<html lang="en"> <!--<![endif]-->
 {% include head.html %}
 
 <body>
-    <div class="wrapper">
-        {% include sidebar.html %}
-        
-        <div class="main-wrapper">
-           
-           {{content}}
-            
-        </div><!--//main-body-->
-    </div>
- 
+<div class="wrapper">
+    {% include sidebar.html %}
+
+    <div class="main-wrapper">
+
+        {{content}}
+
+    </div><!--//main-body-->
+</div>
+
+{% if site.footer_in_main %}
 {% include footer.html %}
- 
+{% endif %}
+
 {% include scripts.html %}
 </body>
 </html> 
