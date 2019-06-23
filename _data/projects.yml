@@ -1,23 +1,38 @@
-intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+intro:
 projects:
   - project:
-    title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
-  - project:
-    title: DevStudio
+    title: Emoții mari la vârste mici
     link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    tagline: "Monica Reu - 2017"
   - project:
-    title: Tempo
+    title: Conectare prin comunicare
     link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    tagline: "Monica Reu - 2017"
   - project:
-    title: Atom
+    title: Săptămâna Europeană a Educației Democratice în Timișoara (ediția I)
     link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    tagline: "2018 </br>
+    &bull; Well-being and involvement. The shortcut to resilience and talent - Prof. Dr. Ferre Laevers </br>
+    &bull; Calm in the storm. Responding with Compassion to Children's Intense Emotions - Penny Vine"
   - project:
-    title: Delta
+    title: Educația între limite și autonomie
     link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    tagline: "2019"
+  - project:
+    title: O zi dedicată ție și copilului tău
+    link: "#"
+    tagline: "Dr. Lawrence Cohen - 2019"
+  - project:
+    title: Parenting necondiționat
+    link: "#"
+    tagline: "Alfie Kohn - 2019"
+  - project:
+    title: Săptămâna Europeană a Educației Democratice în Timișoara (ediția a II- a)
+    link: "#"
+    tagline: "2019 </br>
+    &bull; Autonomie ca sursă a motivației în învățarea experiențială - Ludo Heylen </br>
+    &bull; Adaptarea învățării la talentul fiecărui copil -Ludo Heylen </br>
+    &bull; Forme de lucru ale învățării experiențiale. Contractul și colțurile de învățare - Ivan van Gucht </br>
+    &bull; Cum poate calitatea dialogului susține motivația copiilor? Caracteristicile dialogului experiențial - Suze Roelofs </br>
+    &bull; Cum poate un mediu bogat de învățare susține motivația copiilor și cum se poate crea unul? - Suze Roelofs "
+

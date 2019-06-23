@@ -19,7 +19,7 @@ sass:
 #Profile information
 name: Maria Alina Sporea
 tagline: French/English sworn translator & interpreter
-pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+pic:
 summary: 'Adaptive person, hardworker and very ambitious, excited to learn new things. Good points: quick learning, time management, responsibility, perfectionism.'
 
 #sidebar links
@@ -35,7 +35,7 @@ twitter: false
 # uncomment the next line, if you want the education section displayed in main instead of the sidebar
 education_in_main: true
 experience_in_main: true
-projects_in_main: false
+projects_in_main: true
 publications_in_main: false
 footer_in_main: false
 
