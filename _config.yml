@@ -18,14 +18,15 @@ sass:
 
 #Profile information
 name: Maria Alina Sporea
-tagline: Fondator & Proprietar la CUIB after-school
+tagline: "Fondator & Coordonator educational - CUIB after-school"
+
 pic:
 summary: 'Persoană adaptabilă, muncitoare și foarte ambițioasă, entuziasmată să învețe lucruri noi. Puncte forte: învățare rapidă, gestionarea timpului, responsabilitate, perfecționism.'
 
 #sidebar links
 #profile_picture_url:
-email: alina.sporea@gmail.com
-phone: 0745 045 059
+email: maria.alina.sporea@gmail.com
+phone: 0746 045 059
 #website: blog.webjeda.com #do not add http://
 linkedin: alina-sporea
 github: false

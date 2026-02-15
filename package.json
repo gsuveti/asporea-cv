@@ -1,0 +1,23 @@
+{
+  "name": "asporea-cv",
+  "version": "1.0.0",
+  "main": "generate-pdf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsuveti/asporea-cv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gsuveti/asporea-cv/issues"
+  },
+  "homepage": "https://github.com/gsuveti/asporea-cv#readme",
+  "dependencies": {
+    "playwright": "^1.58.2"
+  }
+}
