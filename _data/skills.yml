@@ -1,23 +1,23 @@
 - skill:
-  name: English
+  name: Engleză
   level: 100%
 - skill:
-  name: Teaching
+  name: Predare
   level: 100%
 - skill:
-  name: French
+  name: Franceză
   level: 80%
 - skill:
-  name: German
+  name: Germană
   level: 80%
 - skill:
-  name: Legal translations
+  name: Traduceri juridice
   level: 90%
 - skill:
-  name: Economic translations
+  name: Traduceri economice
   level: 90%
 - skill:
-  name: Technical translations
+  name: Traduceri tehnice
   level: 100%
 - skill:
   name: Microsoft Office

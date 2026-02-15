@@ -1,5 +1,5 @@
 # Site Settings
-title: alina's resume
+title: CV-ul Alinei
 url: 'http://webjeda.com'
 baseurl: '/asporea-cv' #change it according to your repository name
 about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
@@ -18,9 +18,9 @@ sass:
 
 #Profile information
 name: Maria Alina Sporea
-tagline: Owner & Founder at CUIB after-school
+tagline: Fondator & Proprietar la CUIB after-school
 pic:
-summary: 'Adaptive person, hardworker and very ambitious, excited to learn new things. Good points: quick learning, time management, responsibility, perfectionism.'
+summary: 'Persoană adaptabilă, muncitoare și foarte ambițioasă, entuziasmată să învețe lucruri noi. Puncte forte: învățare rapidă, gestionarea timpului, responsabilitate, perfecționism.'
 
 #sidebar links
 #profile_picture_url:
